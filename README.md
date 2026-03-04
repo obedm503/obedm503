@@ -22,7 +22,7 @@
 - 🔌 [**konekt-server**](https://github.com/obedm503/konekt-server) — Server implementing the konekt protocol using RxJS for reactive stream handling. TypeScript, Node.js, Lodash.
 - 📄 [**markdown-kitchen-sink**](https://github.com/obedm503/markdown-kitchen-sink) — Reference document showcasing standard Markdown features. Markdown.
 - 🔄 [**rstate**](https://github.com/obedm503/rstate) — Redux-inspired reactive state container using RxJS and Most.js for reactive streams. TypeScript, Rollup, Mocha/Chai.
-- 🎨 [**mandala-generator**](https://github.com/obedm503/mandala-generator) ([demo](https://obedm503.github.io/mandala-generator/)) — Browser-based mandala art generator bundled with Parcel and deployed to GitHub Pages. JavaScript.
+- 🎨 [**mandala-generator**](https://github.com/obedm503/mandala-generator) ([demo](https://obedm503.github.io/mandala-generator/)) — Browser-based mandala art generator bundled with Parcel and deployed to GitHub Pages based on parabola experiments on the Desmos calculator. JavaScript.
 - 🧪 [**experiments**](https://github.com/obedm503/experiments) — Small collection of standalone JavaScript experiments including ES5 class inheritance. JavaScript.
 - 🔢 [**showdown-katex**](https://github.com/obedm503/showdown-katex) ([demo](https://obedm503.github.io/showdown-katex/)) — Showdown markdown extension adding LaTeX and AsciiMath rendering via KaTeX. JavaScript, Rollup, Babel, AVA.
 - 📑 [**bootmark**](https://github.com/obedm503/bootmark) ([demo](https://obedm503.github.io/bootmark/)) — jQuery plugin that renders Markdown styled with Bootstrap 3, using Showdown for parsing and google-code-prettify for syntax highlighting. JavaScript, SCSS.
